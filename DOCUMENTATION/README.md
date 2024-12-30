@@ -9,10 +9,6 @@ a comprehensive understanding of the project's theoretical and practical aspects
 
 ## Contents of `CDMA_git.pdf`  
 
-### 1. Functional Description  
-A high-level overview of the code's purpose and functionality, emphasizing its role in modeling 
-and simulating Non-Orthogonal CDMA systems.
-
 ### 1. Theoretical Model Mapping  
 An explanation of the theoretical foundation that guided the development of the simulation model, 
 providing insights into the concepts and assumptions underlying the implementation.
