@@ -41,3 +41,11 @@ This repository aims to:
 - Provide structured documentation for the results and insights gained.  
 
 For further details, refer to the **CDMA_git.pdf** in the `DOCUMENTATION/` directory or the source code in the `CODE/` directory.
+
+---
+
+## Contacts
+For info or suggest please contact me at:
+- marioambrosone03@gmail.com
+- m.ambrosone12@studenti.unisa.it
+- @_mario.ambrosone on Instagram
